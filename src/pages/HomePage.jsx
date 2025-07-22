@@ -7,7 +7,6 @@ import Slider from "../components/Slider";
 import ServiceCard from "../components/ServiceCard";
 import BookImage from "../assets/foutsal.jpg";
 import IntroCard from "../components/IntroCard";
-import BookImage2 from "../assets/book4.webp";
 import SolutionSection from "../components/SolutionSection"
 import Portfolio from "../components/Portfolio"
 import CTASection from "../components/CTASection";
