@@ -7,7 +7,7 @@ import Slider from "../components/Slider";
 import ServiceCard from "../components/ServiceCard";
 import BookImage from "../assets/foutsal.jpg";
 import IntroCard from "../components/IntroCard";
-import BookImage2 from "../assets/book4.webp";
+
 import SolutionSection from "../components/SolutionSection"
 import Book7 from "../assets/foutsal2.jpg"
 import FAQ from "../components/FAQ";
